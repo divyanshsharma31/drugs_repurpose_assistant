@@ -1,3 +1,6 @@
+Team Name- Risk Raiders (078)
+Team Members- Divyansh Sharma(Leader), Prashant Rana, Anant Agarwal, Harshit Kumawat
+
 # Drug Discovery & Repurposing Assistant (EY PS#11)
 
 AI-powered research agent that scans literature and clinical trials to surface drug repurposing opportunities. End-to-end MVP: FastAPI backend + React dashboard. Real APIs: PubMed, ClinicalTrials.gov, PubChem.
